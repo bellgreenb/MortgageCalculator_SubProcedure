@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC56996E-A872-41C3-ADC3-29941BE5B8BA}|MortgageCalculator.vbproj|c:\\users\\bellg\\onedrive\\desktop\\past classes\\application development\\mortgagecalculator_subprocedure\\frmmortgagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC56996E-A872-41C3-ADC3-29941BE5B8BA}|MortgageCalculator.vbproj|solutionrelative:frmmortgagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC56996E-A872-41C3-ADC3-29941BE5B8BA}|MortgageCalculator.vbproj|C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\frmmortgagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC56996E-A872-41C3-ADC3-29941BE5B8BA}|MortgageCalculator.vbproj|solutionrelative:frmmortgagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MortgageCalculator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MortgageCalculator",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\MortgageCalculator.vbproj",
+              "RelativeDocumentMoniker": "MortgageCalculator.vbproj",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\MortgageCalculator.vbproj",
+              "RelativeToolTip": "MortgageCalculator.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T22:46:52.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMortgageCalculator.vb",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\frmMortgageCalculator.vb",
+              "RelativeDocumentMoniker": "frmMortgageCalculator.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\frmMortgageCalculator.vb",
+              "RelativeToolTip": "frmMortgageCalculator.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T22:32:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMortgageCalculator.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\MortgageCalculator_SubProcedure\\frmMortgageCalculator.vb",
+              "RelativeDocumentMoniker": "frmMortgageCalculator.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Application Development\\MortgageCalculator_SubProcedure\\frmMortgageCalculator.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Application Development\\MortgageCalculator_SubProcedure\\frmMortgageCalculator.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T22:31:40.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
